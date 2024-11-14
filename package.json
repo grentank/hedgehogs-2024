@@ -1,0 +1,21 @@
+{
+  "name": "p1w2d4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@elbrus/eslint-config": "^1.0.0",
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "globals": "^15.12.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
